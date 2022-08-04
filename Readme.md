@@ -1,0 +1,1 @@
+Code, data and latex files for paper Induction of Survival Trees by Quadric Splits and Dipolar Splitting Criteria
